@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://i.ibb.co/F39C103/Moona.png" alt="Moona" style="border-radius:50%">
+    <img src="https://i.ibb.co/F39C103/Moona.png" alt="Moona" style="width:256px; height:256px;border-radius:50%">
   </a>
 
   <h1 align="center">Moona</h1>
